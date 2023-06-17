@@ -1,0 +1,6 @@
+1.	Mənzilin sahəsi və otaq sayının qiymətinə təsiri
+https://public.tableau.com/app/profile/joshgun/viz/Yenitikilimnzillrinsahsivotaqsaynnqiymttsiri/Dashboard2
+2.	Küçələr üzrə yeni tikili mənzillərə ortalama baxış sayı
+https://public.tableau.com/app/profile/joshgun/viz/Averageviewcountofthestreets/Dashboard1
+3.	Küçələr üzrə yeni tikili mənzillərin 1 kv-ın qiyməti
+https://public.tableau.com/app/profile/joshgun/viz/Klrzrmnzillrin1kv-nqiymti/Dashboard1
